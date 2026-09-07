@@ -5,7 +5,7 @@
 Most of my work is field operations: UIKit codebases that talk to printers, payment readers, barcode sleds, and Core Data. Async delivery. You keep every Apple credential.
 
 <p>
-  <a href="https://github.com/lamtalaa/CICDPipelinePOC/actions"><img src="https://github.com/lamtalaa/CICDPipelinePOC/actions/workflows/ios-cicd.yml/badge.svg" alt="CICDPipelinePOC GitHub Actions" /></a>
+  <a href="https://github.com/lamtalaa-marketing/CICDPipelinePOC/actions"><img src="https://github.com/lamtalaa-marketing/CICDPipelinePOC/actions/workflows/ios-cicd.yml/badge.svg" alt="CICDPipelinePOC GitHub Actions" /></a>
   &nbsp;
   <img src="https://img.shields.io/badge/Swift-UIKit%20%7C%20SwiftUI-F05138?logo=swift&logoColor=white" alt="Swift" />
   &nbsp;
@@ -30,11 +30,11 @@ Most of my work is field operations: UIKit codebases that talk to printers, paym
 
 This is not a slide deck. The same pipeline I install for clients **runs on a public repo**, with green Actions history you can open.
 
-**[CICDPipelinePOC](https://github.com/lamtalaa/CICDPipelinePOC)** — SwiftLint, unit tests, and a coverage gate on every PR. Merge to `main` signs the app and uploads to TestFlight.
+**[CICDPipelinePOC](https://github.com/lamtalaa-marketing/CICDPipelinePOC)** — SwiftLint, unit tests, and a coverage gate on every PR. Merge to `main` signs the app and uploads to TestFlight.
 
-[Inspect the workflow runs →](https://github.com/lamtalaa/CICDPipelinePOC/actions)
+[Inspect the workflow runs →](https://github.com/lamtalaa-marketing/CICDPipelinePOC/actions)
 
-Need Bitrise instead of GitHub-hosted macOS runners? **[BitriseEnterprisePipelineDemo](https://github.com/lamtalaa/BitriseEnterprisePipelineDemo)**
+Need Bitrise instead of GitHub-hosted macOS runners? **[BitriseEnterprisePipelineDemo](https://github.com/lamtalaa-marketing/BitriseEnterprisePipelineDemo)**
 
 ---
 
@@ -42,12 +42,12 @@ Need Bitrise instead of GitHub-hosted macOS runners? **[BitriseEnterprisePipelin
 
 | Project | What it is |
 |---|---|
-| [CICDPipelinePOC](https://github.com/lamtalaa/CICDPipelinePOC) | Production-style iOS CI/CD. Public green runs. The $499 TestFlight install. |
-| [BitriseEnterprisePipelineDemo](https://github.com/lamtalaa/BitriseEnterprisePipelineDemo) | Same problem on Bitrise: Fastlane, signing, TestFlight-oriented delivery. |
-| [AIChatBuddy](https://github.com/lamtalaa/AIChatBuddy_2.1) | Native iOS AI companion app in Swift. |
-| [TogetherApp](https://github.com/lamtalaa/TogetherApp) | Native iOS app. |
-| [VideoPlayerKit](https://github.com/lamtalaa/VideoPlayerKit) | Swift video playback kit. |
-| [OpenAIService](https://github.com/lamtalaa/OpenAIService) | Swift client layer for OpenAI APIs. |
+| [CICDPipelinePOC](https://github.com/lamtalaa-marketing/CICDPipelinePOC) | Production-style iOS CI/CD. Public green runs. The $499 TestFlight install. |
+| [BitriseEnterprisePipelineDemo](https://github.com/lamtalaa-marketing/BitriseEnterprisePipelineDemo) | Same problem on Bitrise: Fastlane, signing, TestFlight-oriented delivery. |
+| [AIChatBuddy](https://github.com/lamtalaa-marketing/AIChatBuddy_2.1) | Native iOS AI companion app in Swift. |
+| [TogetherApp](https://github.com/lamtalaa-marketing/TogetherApp) | Native iOS app. |
+| [VideoPlayerKit](https://github.com/lamtalaa-marketing/VideoPlayerKit) | Swift video playback kit. |
+| [OpenAIService](https://github.com/lamtalaa-marketing/OpenAIService) | Swift client layer for OpenAI APIs. |
 
 Day job (contract): I maintain the **MTA conductor iOS app** used for onboard ticket sales — production defects, Core Data, Bluetooth printers, payment readers, barcode sleds, and the GitHub Actions + Fastlane path that gets a fix back onto a device without a manual IPA upload.
 
